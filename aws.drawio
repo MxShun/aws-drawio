@@ -1,6 +1,6 @@
 <mxfile>
     <diagram id="3937Sx6mrg3jVrlZ0Cja" name="Auroraの構成要素">
-        <mxGraphModel dx="1422" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1422" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="t3JRFxsmLGdS5MA3n8nu-0"/>
                 <mxCell id="t3JRFxsmLGdS5MA3n8nu-1" parent="t3JRFxsmLGdS5MA3n8nu-0"/>
@@ -58,12 +58,6 @@
                 <mxCell id="t3JRFxsmLGdS5MA3n8nu-29" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontColor=#999999;" vertex="1" parent="t3JRFxsmLGdS5MA3n8nu-1">
                     <mxGeometry x="290" y="360" width="50" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="t3JRFxsmLGdS5MA3n8nu-30" value="" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4D72F3;gradientDirection=north;fillColor=#3334B9;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.aurora;" vertex="1" parent="t3JRFxsmLGdS5MA3n8nu-1">
-                    <mxGeometry x="210" y="70" width="50" height="50" as="geometry"/>
-                </mxCell>
-                <mxCell id="t3JRFxsmLGdS5MA3n8nu-32" value="&lt;span style=&quot;color: rgb(153 , 153 , 153) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; display: inline ; float: none&quot;&gt;Auroraクラスタ&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#999999;" vertex="1" parent="t3JRFxsmLGdS5MA3n8nu-1">
-                    <mxGeometry x="260" y="80" width="100" height="20" as="geometry"/>
-                </mxCell>
                 <mxCell id="t3JRFxsmLGdS5MA3n8nu-33" value="Transaction&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22SQL%20Execute%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfontColor%3D%23999999%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2250%22%20y%3D%22190%22%20width%3D%22110%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#999999;" vertex="1" parent="t3JRFxsmLGdS5MA3n8nu-1">
                     <mxGeometry x="220" y="220" width="130" height="30" as="geometry"/>
                 </mxCell>
@@ -81,12 +75,6 @@
                 </mxCell>
                 <mxCell id="t3JRFxsmLGdS5MA3n8nu-49" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontColor=#999999;" vertex="1" parent="t3JRFxsmLGdS5MA3n8nu-1">
                     <mxGeometry x="470" y="360" width="50" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="t3JRFxsmLGdS5MA3n8nu-50" value="" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4D72F3;gradientDirection=north;fillColor=#3334B9;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.aurora;" vertex="1" parent="t3JRFxsmLGdS5MA3n8nu-1">
-                    <mxGeometry x="390" y="70" width="50" height="50" as="geometry"/>
-                </mxCell>
-                <mxCell id="t3JRFxsmLGdS5MA3n8nu-52" value="&lt;span style=&quot;color: rgb(153 , 153 , 153) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; display: inline ; float: none&quot;&gt;Auroraクラスタ&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#999999;" vertex="1" parent="t3JRFxsmLGdS5MA3n8nu-1">
-                    <mxGeometry x="440" y="80" width="100" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="t3JRFxsmLGdS5MA3n8nu-55" value="クラスタボリューム" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#999999;align=left;verticalAlign=top;" vertex="1" parent="t3JRFxsmLGdS5MA3n8nu-1">
                     <mxGeometry x="400" y="320" width="130" height="80" as="geometry"/>
