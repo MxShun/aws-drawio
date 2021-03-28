@@ -28,7 +28,7 @@
                 <mxCell id="2W3m7iXVrk22qpuzCPFB-15" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.redshift;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="GUm7zRhh-KJ9if9UynZF-1">
                     <mxGeometry x="10" y="10" width="50" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="2W3m7iXVrk22qpuzCPFB-18" value="コンピュータノード" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;" vertex="1" parent="GUm7zRhh-KJ9if9UynZF-1">
+                <mxCell id="2W3m7iXVrk22qpuzCPFB-18" value="コンピュートノード" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;" vertex="1" parent="GUm7zRhh-KJ9if9UynZF-1">
                     <mxGeometry x="50" y="190" width="290" height="70" as="geometry"/>
                 </mxCell>
                 <mxCell id="2W3m7iXVrk22qpuzCPFB-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="GUm7zRhh-KJ9if9UynZF-1" source="2W3m7iXVrk22qpuzCPFB-19" target="2W3m7iXVrk22qpuzCPFB-0">
@@ -80,7 +80,7 @@
                 <mxCell id="2W3m7iXVrk22qpuzCPFB-31" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="GUm7zRhh-KJ9if9UynZF-1">
                     <mxGeometry x="510" y="315" width="60" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="2W3m7iXVrk22qpuzCPFB-32" value="コンピュータノード" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;" vertex="1" parent="GUm7zRhh-KJ9if9UynZF-1">
+                <mxCell id="2W3m7iXVrk22qpuzCPFB-32" value="コンピュートノード" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;" vertex="1" parent="GUm7zRhh-KJ9if9UynZF-1">
                     <mxGeometry x="360" y="190" width="290" height="70" as="geometry"/>
                 </mxCell>
                 <mxCell id="2W3m7iXVrk22qpuzCPFB-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="GUm7zRhh-KJ9if9UynZF-1" source="2W3m7iXVrk22qpuzCPFB-33" target="2W3m7iXVrk22qpuzCPFB-26">
